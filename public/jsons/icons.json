@@ -1,0 +1,28 @@
+[
+  { "link": "/", "icon": "/images/logo.svg", "title": "" },
+  {
+    "link": "/",
+    "icon": "/images/home.svg",
+    "title": "Home"
+  },
+  {
+    "link": "/search",
+    "icon": "/images/search.svg",
+    "title": "Search"
+  },
+  {
+    "link": "/artists",
+    "icon": "/images/artists.svg",
+    "title": "Artists"
+  },
+  {
+    "link": "/genres",
+    "icon": "/images/genres.svg",
+    "title": "Genres"
+  },
+  {
+    "link": "/albums",
+    "icon": "/images/albums.svg",
+    "title": "Albums"
+  }
+]
